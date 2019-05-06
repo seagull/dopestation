@@ -8,13 +8,13 @@ Dopestation provides a simple interface for downloading, setting up and using su
 ![Dopestation Interface](https://i.imgur.com/UHfdCPq.png)
 
 ## Features of Dopestreamer
-- Runs on any Windows machine with PowerShell 4 or above (may even work on earlier versions)
-- Will download and setup Streamlink and VLC automatically if either are absent upon launch
+- Runs on any Windows machine with PowerShell 3 or above (may even work on earlier versions)
+- Options for downloading VLC Media Player or Streamlink as part of setup process
 - Users can directly select an IRC client to launch alongside a stream for community chat  
 (Users who prefer silence can opt to launch Discord instead)
 - Can be left idle to tune into streams as and when they go live
 - Streamer blacklists can be set up to avoid streams from particular streamers
-- Supports two Vacker.TV regions, a low-bandwidth setting, the Dopelives YouTube account and will view Twitch streams
+- Supports five Vacker.TV regions, a low-bandwidth setting, the Dopelives YouTube account and will view Twitch streams
 - A shortcut can be placed on the user's desktop for split-second streams
 
 ## Acknowledgements
