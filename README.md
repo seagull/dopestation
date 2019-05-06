@@ -5,7 +5,7 @@ It aims to supplant the successful [DopeStreamer](https://github.com/tvkanters/D
 Dopelives.com is a community focused around streaming and discussion of video games. While the website serves as a perfectly serviceable hub to the content, "power users" often prefer to connect to the service using a dedicated IRC client and a tool to pipe streams directly through to a media player.  
 Dopestation provides a simple interface for downloading, setting up and using such viewing tools, and can be left idle to wait for streams and tune into them when they are available.
 
-![Dopestation Interface](https://i.imgur.com/UHfdCPq.png)
+![Dopestation Interface](https://i.imgur.com/xRG5kar.png)
 
 ## Features of Dopestreamer
 - Runs on any Windows machine with PowerShell 3 or above (may even work on earlier versions)
