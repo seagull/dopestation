@@ -7,7 +7,7 @@ Dopestation provides a simple interface for downloading, setting up and using su
 
 ![Dopestation Interface](https://i.imgur.com/xRG5kar.png)
 
-## Features of Dopestreamer
+## Features of Dopestation
 - Runs on any Windows machine with PowerShell 3 or above (may even work on earlier versions)
 - Options for downloading VLC Media Player or Streamlink as part of setup process
 - Users can directly select an IRC client to launch alongside a stream for community chat  
